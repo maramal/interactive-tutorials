@@ -5,7 +5,7 @@ Bienvenido a su primer tutorial! Da click en el botón "Run" en la parte inferio
 
     "Hello, World!"
 
-Una ves que hallas modificado el código para imprimir el texto correcto, ejecútalo y observa si hace lo correcto.
+Una ves que hayas modificado el código para imprimir el texto correcto, ejecútalo y observa si hace lo correcto.
 
 Tutorial Code
 -------------
